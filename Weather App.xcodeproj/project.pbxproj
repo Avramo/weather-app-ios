@@ -15,6 +15,7 @@
 		8456611723E0883D00B90257 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8456611523E0883D00B90257 /* LaunchScreen.storyboard */; };
 		8456612223E0883D00B90257 /* Weather_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8456612123E0883D00B90257 /* Weather_AppTests.swift */; };
 		8456612D23E0883D00B90257 /* Weather_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8456612C23E0883D00B90257 /* Weather_AppUITests.swift */; };
+		8456613B23E0971600B90257 /* wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8456613A23E0971600B90257 /* wallpaper.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8456612823E0883D00B90257 /* Weather AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8456612C23E0883D00B90257 /* Weather_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_AppUITests.swift; sourceTree = "<group>"; };
 		8456612E23E0883D00B90257 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8456613A23E0971600B90257 /* wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wallpaper.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		8456610923E0883B00B90257 /* Weather App */ = {
 			isa = PBXGroup;
 			children = (
+				8456613A23E0971600B90257 /* wallpaper.jpg */,
 				8456610A23E0883B00B90257 /* AppDelegate.swift */,
 				8456610C23E0883B00B90257 /* SceneDelegate.swift */,
 				8456610E23E0883B00B90257 /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8456611723E0883D00B90257 /* LaunchScreen.storyboard in Resources */,
+				8456613B23E0971600B90257 /* wallpaper.jpg in Resources */,
 				8456611423E0883D00B90257 /* Assets.xcassets in Resources */,
 				8456611223E0883B00B90257 /* Main.storyboard in Resources */,
 			);
